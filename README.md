@@ -7,4 +7,6 @@
 
 3. https://m.bejson.com/json/format/
 
-4. JsonCrack
+4. vue-json-pretty
+ 
+6. JsonCrack
